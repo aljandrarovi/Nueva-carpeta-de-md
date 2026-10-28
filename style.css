@@ -1,0 +1,5 @@
+body { margin: 0; background: #0a0a0a; color: #e0e0e0; font-family: system-ui, sans-serif; overflow: hidden; height: 100vh; }
+#ui { position: absolute; top: 20px; left: 20px; background: rgba(0,0,0,0.6); padding: 16px; border-radius: 10px; pointer-events: none; max-width: 300px; backdrop-filter: blur(4px); }
+#ui h1 { margin: 0 0 8px 0; font-size: 18px; color: #8bb8e8; }
+#ui p { margin: 5px 0; font-size: 13px; line-height: 1.4; }
+#status { color: #ffd700; font-weight: bold; margin-top: 8px; }
